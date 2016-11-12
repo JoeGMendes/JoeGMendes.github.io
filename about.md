@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a Embedded developer.
+I am an Embedded developer.
 
-email: joe[at]blah.blah
+email: joe[dot]g[dot]mendes[at]linux[dot]com
