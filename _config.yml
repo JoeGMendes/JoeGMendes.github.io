@@ -1,0 +1,42 @@
+title: Me, myself and Tech
+description: My Interpretation of Technology
+author: Joe Mendes
+github: https://github.com/JoeGMendes
+about: I am a Embedded Developer. 
+disqus_shortname: TBD
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/jgmendes”
+    - icon: fa-linkedin
+      link: “http://linkedin.com/joegmendes”
+
+share:
+  twitter_username: jgmendes
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: Github
+      url: https://github.com/JoeGMendes
+
+url: "https://JoeGmendes.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
